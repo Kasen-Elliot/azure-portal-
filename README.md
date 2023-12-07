@@ -70,7 +70,6 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 
 <p>
   <ul>
-    <li>The <b>Storage Account</b> is a Resource in Microsoft Azure that serves as a general 500 TB storage unit for data in the cloud, more information <a href ="https://azure.microsoft.com/en-us/products/category/storage/">here</a></li>
     <li>First, have a simple image or txt file on hand for uploading</li>
     <li>Head to the <b>Storage account</b> page and click on <b>create</b></li>
     <li>Storage Accounts have multiple fields for creation</li>
